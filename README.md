@@ -1,1 +1,2 @@
-# DiscordWebhookSpamer
+# webhook
+Simple Discord Webhook Sender

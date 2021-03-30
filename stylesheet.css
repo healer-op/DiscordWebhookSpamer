@@ -1,0 +1,87 @@
+/*   
+  Project by Zua 
+  https://github.com/thatziv/webhook 
+*/
+
+* {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+body {
+    
+    background: url(https://i.imgur.com/vcnuZr5.gif) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+#container {
+    margin-top: 80px;
+    margin: auto;
+    margin-right: 25px;
+    margin-left: 25px;
+    background: rgba(0, 0, 0, 0.521); 
+    padding: 25px;
+}
+
+#header {
+    text-align: center;
+    margin-top: 47px;
+    margin: auto;
+    font-size: 39px
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: rgba(71, 71, 71, 0.37); 
+    color: white;
+    text-align: center;
+}
+
+.center-align {
+    text-align: center;
+}
+
+p {
+    font-size: 27px;
+}
+
+a, a:visited {
+    color: rgb(129, 129, 129)
+}
+
+#link, #username, #content, #avatar {
+    font-size: 25px;
+    background-color: #4e4e4e;
+    width: 75%;
+    padding: 20px;
+    border: 2px solid #7c7c7cc9;
+}
+
+#btn {
+    width: 35%;
+    font-size: 25px;
+    margin-top: 25px;
+    padding: 17px;
+    background-color: #00b618;
+    border: 2px solid #000000c9;
+}
+
+#btn:hover { 
+    background-color: #365a3f;
+}
+
+#log {
+    text-align: center;
+    width: 5%;
+    background-color: rgb(81, 255, 0);
+    color: rgb(207, 41, 0);
+}
